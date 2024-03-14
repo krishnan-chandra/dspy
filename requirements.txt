@@ -8,5 +8,4 @@ tqdm
 datasets
 requests
 optuna
-pydantic==2.5.0
-# To be deleted
+pydantic>=2.5.0,<3.0.0
